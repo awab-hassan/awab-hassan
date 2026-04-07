@@ -28,14 +28,7 @@ Here are some ideas to get you started:
 
 ## About
 
-Certified Kubernetes Administrator (CKA) and Senior DevOps Engineer with 3+ years building and operating production infrastructure at scale. I specialize in **CI/CD automation**, **Kubernetes cluster engineering**, and **cloud infrastructure on AWS, Azure, and GCP**.
-
-Key results across my career:
-- Managed Jenkins CI/CD supporting **200+ daily builds** across **5+ engineering teams** at 99.9% uptime
-- Reduced MTTR for Kubernetes rollbacks from **hours → under 5 minutes** using ArgoCD GitOps
-- Cut deployment lead time by **40–50%** through IaC and pipeline automation
-- Reduced new project onboarding from **2 days → 1 hour** with Jenkins seed jobs
-- Achieved **99.99% system availability** for enterprise AWS workloads at Ninesarch
+Certified Kubernetes Administrator (CKA) and Senior DevOps Engineer with 3+ years working across CI/CD, Kubernetes, and cloud infrastructure. I've worked with startups and enterprise clients through Upwork and full-time roles — building pipelines, managing clusters, and automating infrastructure on AWS, Azure, and GCP. CKA certified, currently studying offensive security (CPTS).
 
 ---
 
@@ -56,16 +49,20 @@ Languages                   │  Bash, Python, YAML, PowerShell
 ## Experience Highlights
 
 **Senior DevOps Engineer — Jenkins & CI/CD** · Upwork · Jan 2026 – Present
-> 200+ daily builds · 50+ pipelines · 99.9% uptime · 5+ engineering teams · 50% faster deployments
+> Managing and scaling production Jenkins CI/CD infrastructure · Jenkins Job DSL & Pipeline DSL · reusable automation across 1000+ pipelines · integrating with AWS, Terraform, and Ansible
 
 **Senior Kubernetes Engineer — AWS, Azure, GCP** · Upwork · Jan 2025 – Present
-> EKS + AKS + on-prem · ArgoCD GitOps · MTTR hours → 5 min · 99.9% availability · cluster hardening
+> Running production-grade Kubernetes clusters across EKS, AKS, and on-prem · Terraform + Helm for automated deployments · GitOps with ArgoCD · Service mesh with Istio · Monitoring with Prometheus + Grafana · Logging with ELK stack · AWS infra (EC2, EBS, EFS, API Gateway, Lambda, S3)
 
-**AWS DevOps Engineer** · Ninesarch · Sep 2024 – Sep 2025
-> Enterprise AWS (API GW, Lambda, EKS, RDS) · Terraform IaC · blue-green deployments · 30% faster app response
+**DevOps Engineer** · Ninesarch · Sep 2024 – Sep 2025
+> Architecting AWS solutions (API Gateway, Lambda, EKS, RDS) with security & compliance · Terraform (IaC) for infra provisioning + auto-scaling · CI/CD with AWS CodePipeline & CodeBuild · EC2 → ECS migrations + Redis caching · GitHub Actions pipelines · Blue-green deployments
 
-**AWS DevOps Engineer** · Gocloud PVT LTD · Nov 2022 – Aug 2023
-> K8s + Docker on AWS, DigitalOcean, Linode · Python + Bash automation · GitHub Actions + Jenkins
+**DevOps Engineer** · Freelance · September 2023 – September 2024
+> Stateful workloads on Kubernetes (MySQL/PostgreSQL) with optimized resource usage · Secure artifact lifecycle (S3 + Cosign signing/verification) · Python-driven automation for storage & integrity workflows · Terraform-based ECS/EKS platform provisioning · CI/CD orchestration with GitHub Actions across environments
+
+
+**AWS DevOps Engineer** · Gocloud PVT LTD · December 2022 – Aug 2023
+> Running containerized workloads on Kubernetes + Docker across AWS, DigitalOcean & Linode · Terraform for multi-cloud infrastructure · Automation with Python & Bash · AWS RDS (MySQL) management & performance tuning · CI/CD with GitHub Actions, GitLab & Jenkins
 
 ---
 
