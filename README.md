@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/awabhassannizami"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://upwork.com/freelancers/~013f460d5f11b3e03a?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white"/></a>
   <a href="mailto:awabrajpoot88@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <a href="https://www.credly.com/badges/40806cb9-ed58-40be-9edc-6893110f8952/public_url"><img src="https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-1D9E75?style=flat-square"/>
 </p>
 
