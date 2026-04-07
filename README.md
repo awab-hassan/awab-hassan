@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Awab Hassan 👋</h1>
-<h3 align="center">Senior DevOps & Cloud Engineer · Remote · 3+ Years</h3>
+<h1 align="center">Hi, I'm Awab👋</h1>
+<h3 align="center">Senior DevOps, CKA & Cloud Engineer · 3+ Years</h3>
 <p align="center">
   <a href="https://linkedin.com/in/awabhassannizami"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://upwork.com/freelancers/~013f460d5f11b3e03a?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/></a>
