@@ -101,7 +101,7 @@ Languages                   │  Bash, Python, YAML, PowerShell
 
 | Certification | Issuer | Valid |
 |---------------|--------|-------|
-|[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/40806cb9-ed58-40be-9edc-6893110f8952/public_url | The Linux Foundation | Jun 2025 – Jun 2027 |
+| <a href="https://www.credly.com/badges/40806cb9-ed58-40be-9edc-6893110f8952/public_url">Certified Kubernetes Administrator (CKA)</a> | The Linux Foundation | Jun 2025 – Jun 2027 |
 
 ---
 
