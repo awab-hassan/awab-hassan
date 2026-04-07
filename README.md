@@ -41,12 +41,6 @@ Senior Jenkins Engineer — CI/CD pipelines for 50+ microservices, 0-downtime de
 Kubernetes Engineer — Production cluster management, incident response, capacity planning
 
 
-📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awab-hassan&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awab-hassan&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
 <p align="center">
   <i>Open to remote full-time and contract opportunities in DevOps, Cloud, and Platform Engineering.</i>
 </p>
