@@ -74,26 +74,26 @@ Languages                   │  Bash, Python, YAML, PowerShell
 ### Kubernetes & Containers
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [shinobi-k8s-deployment](https://github.com/awab-hassan/shinobi-k8s-deployment) | CCTV app on K8s — NFS PersistentVolumes, MySQL, Secrets, Services | K8s · Docker · MySQL · NFS |
-| [k8s-homelab](https://github.com/awab-hassan/k8s-homelab) | Self-hosted cluster with full Prometheus + Grafana observability | K8s · Helm · Prometheus |
+| [demo](https://github.com/awab-hassan/) | CCTV app on K8s — NFS PersistentVolumes, MySQL, Secrets, Services | K8s · Docker · MySQL · NFS |
+| [demo](https://github.com/awab-hassan/) | Self-hosted cluster with full Prometheus + Grafana observability | K8s · Helm · Prometheus |
 
 ### CI/CD Pipelines
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [jenkins-multibranch-pipeline](https://github.com/awab-hassan/jenkins-multibranch-pipeline) | Multi-branch pipeline — Docker build, test, SonarQube, deploy | Jenkins · Docker · SonarQube |
-| [github-actions-k8s-deploy](https://github.com/awab-hassan/github-actions-k8s-deploy) | GitOps pipeline deploying to Kubernetes via ArgoCD | GitHub Actions · ArgoCD · K8s |
+| [demo](https://github.com/awab-hassan/) | Multi-branch pipeline — Docker build, test, SonarQube, deploy | Jenkins · Docker · SonarQube |
+| [demo](https://github.com/awab-hassan/) | GitOps pipeline deploying to Kubernetes via ArgoCD | GitHub Actions · ArgoCD · K8s |
 
 ### Infrastructure as Code
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [terraform-aws-infra](https://github.com/awab-hassan/terraform-aws-infra) | Modular Terraform — VPC, EC2, EKS, RDS, IAM, S3 | Terraform · AWS |
-| [ansible-server-hardening](https://github.com/awab-hassan/ansible-server-hardening) | Automated Linux server provisioning and CIS hardening | Ansible · Linux · Bash |
+| [demo](https://github.com/awab-hassan/) | Modular Terraform — VPC, EC2, EKS, RDS, IAM, S3 | Terraform · AWS |
+| [demo](https://github.com/awab-hassan/) | Automated Linux server provisioning and CIS hardening | Ansible · Linux · Bash |
 
 ### Case Studies (Proprietary Code)
 | Repo | Description |
 |------|-------------|
-| [case-study-jenkins-enterprise](https://github.com/awab-hassan/case-study-jenkins-enterprise) | Architecture + writeup: 50+ pipelines, 200+ daily builds, 99.9% uptime |
-| [case-study-k8s-enterprise](https://github.com/awab-hassan/case-study-k8s-enterprise) | Architecture + writeup: Multi-cloud K8s, MTTR hours → 5 min, cluster hardening |
+| [demo](https://github.com/awab-hassan/) | Architecture + writeup: 50+ pipelines, 200+ daily builds, 99.9% uptime |
+| [demo](https://github.com/awab-hassan/) | Architecture + writeup: Multi-cloud K8s, MTTR hours → 5 min, cluster hardening |
 
 ---
 
@@ -104,13 +104,6 @@ Languages                   │  Bash, Python, YAML, PowerShell
 | <a href="https://www.credly.com/badges/40806cb9-ed58-40be-9edc-6893110f8952/public_url">Certified Kubernetes Administrator (CKA)</a> | The Linux Foundation | Jun 2025 – Jun 2027 |
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awab-hassan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awab-hassan&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
 
 ---
 
