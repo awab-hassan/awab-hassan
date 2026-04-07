@@ -101,7 +101,7 @@ Languages                   │  Bash, Python, YAML, PowerShell
 
 | Certification | Issuer | Valid |
 |---------------|--------|-------|
-| Certified Kubernetes Administrator (CKA) | The Linux Foundation | Jun 2025 – Jun 2027 |
+|[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/40806cb9-ed58-40be-9edc-6893110f8952/public_url | The Linux Foundation | Jun 2025 – Jun 2027 |
 
 ---
 
@@ -116,5 +116,4 @@ Languages                   │  Bash, Python, YAML, PowerShell
 
 <p align="center">
   <i>Available for remote full-time roles and contracts · DevOps · Platform Engineering · Cloud Infrastructure</i><br/>
-  <i>awabrajpoot88@gmail.com</i>
 </p>
