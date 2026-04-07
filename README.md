@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Awab Hassan 👋</h1>
 <h3 align="center">Senior DevOps & Cloud Engineer · Remote · 3+ Years</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://upwork.com/freelancers/YOUR_UPWORK"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/awabhassannizami"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://upwork.com/freelancers/~013f460d5f11b3e03a?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/></a>
+  <a href="mailto:awabrajpoot88@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 🛠 Core Stack
@@ -43,8 +43,8 @@ Kubernetes Engineer — Production cluster management, incident response, capaci
 
 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=awab-hassan&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awab-hassan&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
