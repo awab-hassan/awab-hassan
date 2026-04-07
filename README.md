@@ -24,8 +24,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-1D9E75?style=flat-square"/>
 </p>
 
----
-
 ## About
 
 Certified Kubernetes Administrator (CKA) and Senior DevOps Engineer with 3+ years working across CI/CD, Kubernetes, and cloud infrastructure. I've worked with startups and enterprise clients through Upwork and full-time roles — building pipelines, managing clusters, and automating infrastructure on AWS, Azure, and GCP. CKA certified, currently studying offensive security (CPTS).
