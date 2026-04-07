@@ -105,8 +105,6 @@ Languages                   │  Bash, Python, YAML, PowerShell
 
 ---
 
----
-
 <p align="center">
   <i>Available for remote full-time roles and contracts · DevOps · Platform Engineering · Cloud Infrastructure</i><br/>
 </p>
