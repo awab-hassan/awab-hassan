@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Awab👋</h1>
+<h1 align="center">Hi, I'm Awabb👋</h1>
 <h3 align="center">Senior DevOps & Cloud Engineer · CKA Certified · 3+ Years</h3>
 <h4 align="center">Kubernetes · Jenkins · AWS · Terraform · ArgoCD</h4>
 
