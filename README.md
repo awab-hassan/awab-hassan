@@ -46,7 +46,7 @@ Languages                   │  Bash, Python, YAML, Groovy, PowerShell
 **Senior Kubernetes / Platform Engineer** · Upwork - Confidential US Client · Apr 2025 – Present *(Part-time since Jan 2026)*
 > EKS, AKS, and on-prem Kubernetes clusters running 400+ microservices · ArgoCD-driven GitOps with rollback MTTR under 5 minutes · Istio service mesh with strict mTLS and zero-trust networking · LGTM observability stack (Prometheus, Grafana, Loki, Tempo, Jaeger, Kiali)
 
-**DevOps Engineer (AWS Focus)** · NinesArch · Sep 2024 – Sep 2025
+**AWS DevOps Engineer** · NinesArch · Sep 2024 – Sep 2025
 > Architected AWS solutions (EKS, ECS, Lambda, API Gateway, RDS, ElastiCache, S3) achieving 99.99% availability · Terraform IaC reducing provisioning time by ~40% · CI/CD via AWS CodePipeline + CodeBuild + GitHub Actions · EC2→ECS migrations with Redis caching cutting response times by ~30% · zero-downtime daily deploys (up from weekly cycles)
 
 **Freelance DevOps Engineer (AWS / Kubernetes)** · Self-employed · Sep 2023 – Sep 2024
