@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Awab 👋</h1>
 <h3 align="center">Senior DevOps & Platform Engineer · CKA Certified · 3+ Years</h3>
-<h4 align="center">Kubernetes · Jenkins · AWS · Terraform · ArgoCD · Istio</h4>
+<h4 align="center">Kubernetes · Jenkins · AWS · Terraform · ArgoCD · Istio · AI/ML · Java</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/awabhassannizami"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
